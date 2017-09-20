@@ -1,0 +1,8 @@
+profile and settings the person can change
+save searches
+authenticated person logged in
+make live pulls of the data, not a giant csv file
+
+2 or 3 slides for presentation next week
+few sentences on how the user profile will work
+talk about what specifically we are doing with the data
